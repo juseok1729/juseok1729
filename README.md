@@ -2,6 +2,8 @@
 
 ### ⚡ Major : Electric Engineering
   - 3.7/4.5 GPA
+  
+#
 ### 🔭 Career
   
   - (2019.11-2020.03) **Big Data and Artificial Intelligence Course (ITWill)**
@@ -14,15 +16,18 @@
     - Deep learning (VGG16, 2D-CNN)
     - Machine Learning (Logistics regression, Decision tree, SVM, KNN, K-means, LGBM, RandomForest)
     - Algorithm group study
-    - Math group study
+    - Math group study  
+      
   - **Artificial Intelligence Project**
     1. [2020.02-2020.03] (RNN-LSTM) cryptocurrency auto trading system (Upbit API)
     2. [2020.04-2020.05] (Faster R-CNN) Object detection (Binary Classification)
     3. [2020.05-2020.06] (Faster R-CNN) Object detection with Flask
     4. [2020.07-2020.08] (YOLO-v4) Object detection (Binary Classification)
+    
+#
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
-    - Object Detection
+    - [Object Detection](https://github.com/ojkk371/Object-Detection)
     - Segmentation
     - Classification
 - **Vision**
@@ -36,14 +41,21 @@
     - Stock
     - Futures
     
+#
 ### 👯 Hobby
+- **Research**
+    - Deep learning (image/video)
 - **Art**
     - Sketch
     - Sculpture
     - Resin
 - **Bicycle**
     - Travel
-- **CAD**
+- **CAD 2D/3D**
+    - Interior
+    - Architectural
+    - Product
+#
 ### 📫 How to reach me
 - Resume : http://ojkk371.cafe24.com/
 - Instagram : https://www.instagram.com/juseok_93/
