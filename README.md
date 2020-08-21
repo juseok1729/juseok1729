@@ -46,7 +46,7 @@
 #
 ### 👯 Hobby
 - **Research**
-    - Deep learning (image/video)
+    - [Deep learning](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts)
 - **Art**
     - Sketch
     - Sculpture
