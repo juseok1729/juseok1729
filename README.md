@@ -50,7 +50,8 @@
     - Sculpture
     - Resin
 - **Bicycle**
-    - Travel
+    - Backpacking trip
+    - Exercise
 - **CAD 2D/3D**
     - Interior
     - Architectural
