@@ -18,7 +18,8 @@
   - **Artificial Intelligence Project**
     1. [2020.02-2020.03] (RNN-LSTM) cryptocurrency auto trading system (Upbit API)
     2. [2020.04-2020.05] (Faster R-CNN) Object detection (Binary Classification)
-    3. [2020.07-2020.08] (YOLO-v4) Object detection (Binary Classification)
+    3. [2020.05-2020.06] (Faster R-CNN) Object detection with Flask
+    4. [2020.07-2020.08] (YOLO-v4) Object detection (Binary Classification)
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
     - Object Detection
