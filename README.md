@@ -40,9 +40,9 @@
     - Travel
 
 ### 📫 How to reach me
-- cafe24 : http://ojkk371.cafe24.com/
-- instagram : https://www.instagram.com/juseok_93/
-- email : ojkk371@gmail.com
+- Resume : http://ojkk371.cafe24.com/
+- Instagram : https://www.instagram.com/juseok_93/
+- Email : ojkk371@gmail.com
 
 
 <!--
