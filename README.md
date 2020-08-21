@@ -26,8 +26,8 @@
     5. (2020.07-2020.08) [[YOLO-v4] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4)
     
   - **Group study**
-    - (For a month) Probability and Statistics
-    - (For 2 weeks) Essence of linear algebra
+    1. (For a month) Probability and Statistics
+    2. (For 2 weeks) Essence of linear algebra
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
