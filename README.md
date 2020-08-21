@@ -1,9 +1,10 @@
-### Hi there 👋
+### Juseok, Oh 👋
 
 ### ⚡ Major : Electric Engineering
   - 3.7/4.5 GPA
 ### 🔭 Career
-  - **Big Data and Artificial Intelligence Course (ITWill)**
+  
+  - (2019.11-2020.03) **Big Data and Artificial Intelligence Course (ITWill)**
     - Tool: Python, SQL, R
     - [Python] Web-crawling (Beautifulsoup)
     - [Python] Data visualization (matplotlib & seaborn)
@@ -15,8 +16,9 @@
     - Algorithm group study
     - Math group study
   - **Artificial Intelligence Project**
-    - 1. RNN-LSTM cryptocurrency auto trading system (Upbit API, RNN , LSTM, GRU)
-    - 2. Object detection (Binary Classification)
+    1. [2020.02-2020.03] (RNN-LSTM) cryptocurrency auto trading system (Upbit API)
+    2. [2020.04-2020.05] (Faster R-CNN) Object detection (Binary Classification)
+    3. [2020.07-2020.08] (YOLO-v4) Object detection (Binary Classification)
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
     - Object Detection
