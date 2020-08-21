@@ -50,17 +50,9 @@
 - **Research**
     - [Deep learning](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts)
     - [Paper](https://github.com/ojkk371/Paper-review)
-- **Art**
-    - Sketch
-    - Sculpture
-    - Resin
-- **Bicycle**
-    - Backpacking trip
-    - Exercise
-- **CAD 2D/3D**
-    - Interior
-    - Architectural
-    - Product
+- **Art** (Sketch, Sculpture)
+- **Bicycle** (Exercise)
+- **CAD 2D/3D** (Interior, Architectural, Product)
 #
 ### 📫 How to reach me
 - Resume : http://ojkk371.cafe24.com/
