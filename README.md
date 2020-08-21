@@ -25,7 +25,9 @@
     4. (2020.07-2020.07) [[Analysis] Correlation Analysis of Personality and COVID_19](https://github.com/ojkk371/Correlation-Analysis-of-Personality-and-COVID_19)
     5. (2020.07-2020.08) [[YOLO-v4] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4)
     
-    
+  - **Group study**
+    - Probability and Statistics
+    - Essence of linear algebra
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
