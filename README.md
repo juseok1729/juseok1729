@@ -1,8 +1,6 @@
 ### Juseok, Oh [*@blog*](https://blog.naver.com/ojkk371)
 
 ### ⚡ Major : Electric Engineering
-  - 3.7/4.5 GPA
-  
 #
 ### 🔭 Career
   
