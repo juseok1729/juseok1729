@@ -6,7 +6,7 @@
 #
 ### 🔭 Career
   
-  - (2019.11-2020.03) **Big Data and Artificial Intelligence Course (ITWill)**
+  - [2019.11-2020.03] **Big Data and Artificial Intelligence Course (ITWill)**
     - Tool: Python, SQL, R
     - [Python] Web-crawling (Beautifulsoup)
     - [Python] Data visualization (matplotlib & seaborn)
@@ -19,10 +19,10 @@
     - Math group study  
       
   - **Artificial Intelligence Project**
-    1. [2020.02-2020.03] (RNN-LSTM) cryptocurrency auto trading system (Upbit API)
-    2. [2020.04-2020.05] (Faster R-CNN) Object detection (Binary Classification)
-    3. [2020.05-2020.06] (Faster R-CNN) Object detection with Flask
-    4. [2020.07-2020.08] (YOLO-v4) Object detection (Binary Classification)
+    1. [2020.02-2020.03] [(RNN-LSTM) cryptocurrency auto trading system (Upbit API)](https://github.com/ojkk371/Block-chain-Prediction-Using-LSTM)
+    2. [2020.04-2020.05] [(Faster R-CNN) Object detection (Binary Classification)](https://github.com/ojkk371/Custom-Faster-R-CNN)
+    3. [2020.05-2020.06] [(Faster R-CNN) Object detection with Flask](https://github.com/ojkk371/Faster-R-CNN-with-Flask)
+    4. [2020.07-2020.08] [(YOLO-v4) Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4)
     
 #
 ### 🌱 Interest
@@ -36,7 +36,7 @@
     - Filters (Computer vision)
 - **Financial Engineering**
     - Time series data
-    - Data Crawler
+    - [Data Crawler](https://github.com/ojkk371/Stock-datareader)
     - BlockChain
     - Stock
     - Futures
