@@ -29,6 +29,7 @@
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**
+    - [Image High Resolution Crawling](https://github.com/ojkk371/Image-crawler)
     - [Object Detection](https://github.com/ojkk371/Object-Detection)
     - Segmentation
     - Classification
