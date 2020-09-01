@@ -45,10 +45,11 @@
     - BlockChain
     - Futures
     - Stock
-- **Paper**
+- **Paper-review**
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
     - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
+    - [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
     
 #
 ### 👯 Hobby
