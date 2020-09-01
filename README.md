@@ -56,7 +56,7 @@
         - [arxiv : An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/blob/master/YOLOv4/README.md)
         - [arxiv : Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)
-    - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
+    - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/blob/master/Faster_R-CNN/README.md)
         - [arxiv : Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
     - [Focal Loss for Dense Object Detection](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221087066947)  
         - [arxiv : Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
