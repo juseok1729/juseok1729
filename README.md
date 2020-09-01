@@ -46,10 +46,12 @@
     - Futures
     - Stock
 - **Paper-review**
+    - [EfficientNet and EfficientDet](https://eehoeskrap.tistory.com/404)
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
     - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
-    - [Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
+    - [Focal Loss for Dense Object Detection](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221087066947)
+        -[arxiv](https://arxiv.org/pdf/1708.02002.pdf)
     
 #
 ### 👯 Hobby
