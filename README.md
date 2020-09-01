@@ -50,9 +50,13 @@
 - **Paper-review**
     - [EfficientNet and EfficientDet](https://eehoeskrap.tistory.com/404)
     - [EfficientNet](https://hoya012.github.io/blog/EfficientNet-review/)
+        - [arxiv](https://arxiv.org/pdf/1905.11946.pdf%E2%80%8Barxiv.org)
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
+        - [arxiv](https://arxiv.org/pdf/1804.02767.pdf)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
+        - [arxiv](https://arxiv.org/pdf/2004.10934.pdf)
     - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
+        - [arxiv](https://arxiv.org/pdf/1506.01497.pdf)
     - [Focal Loss for Dense Object Detection](https://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221087066947)  
         - [arxiv](https://arxiv.org/pdf/1708.02002.pdf)
     
