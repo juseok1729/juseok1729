@@ -21,8 +21,8 @@
     2. (2020.04-2020.05) [[Faster R-CNN] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-Faster-R-CNN)
     3. (2020.05-2020.06) [[Faster R-CNN] Object detection with Flask](https://github.com/ojkk371/Faster-R-CNN-with-Flask)
     4. (2020.07-2020.07) [[Analysis] Correlation Analysis of Personality and COVID_19](https://github.com/ojkk371/Correlation-Analysis-of-Personality-and-COVID_19)
-    5. (2020.07-2020.08) [[YOLO-v4] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4)
-    6. (2020.08-2020.08) [[YOLO-v4] Realtime-Object detection (Multi Classification)](http://github.com/ojkk371/Custom-YOLO_BOHOL)
+    5. (2020.07-2020.08) [[YOLOv4] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4)
+    6. (2020.08-2020.08) [[YOLOv4] Realtime-Object detection (Multi Classification)](http://github.com/ojkk371/Custom-YOLO_BOHOL)
     
   - **Group study**
     1. (For a month) Probability and Statistics
