@@ -46,7 +46,7 @@
     - Futures
     - Stock
 - **Visualize**
-    - [Word_Cloud](https://tariat.tistory.com/854)
+    - [Word Cloud](https://tariat.tistory.com/854)
 - **Paper-review**
     - [EfficientNet and EfficientDet](https://eehoeskrap.tistory.com/404)
         - [arxiv : Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070.pdf)
