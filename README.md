@@ -39,8 +39,8 @@
     - Image augmentation (imgaug)
     - Filters (Computer vision)
 - **Financial Engineering**
-    - Time series data
     - [Data Crawler](https://github.com/ojkk371/Stock-datareader)
+    - Time series data
     - BlockChain
     - Stock
     - Futures
