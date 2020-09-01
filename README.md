@@ -63,7 +63,7 @@
     
 #
 ### 👯 Hobby
-- **Research** ([Deep learning for forecasts](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts), [Paper](https://github.com/ojkk371/Paper-review))
+- **Research** ([Deep learning for ENSO forecasts](https://github.com/ojkk371/Deep-learning-for-ENSO-forecasts), [Paper](https://github.com/ojkk371/Paper-review))
 - **Bicycle** (Exercise)
 - **Art** (Sketch, Sculpture)
 - **CAD 2D/3D** (Interior, Architectural, Product)
