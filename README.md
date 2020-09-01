@@ -58,7 +58,7 @@
        - [arxiv : Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)
     - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/blob/master/Faster_R-CNN/README.md)  
        - [arxiv : Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
-    - [Focal Loss for Dense Object Detection](https://github.com/ojkk371/Paper-review/blob/master/Focal_Loss/README.md)  
+    - [Focal Loss](https://github.com/ojkk371/Paper-review/blob/master/Focal_Loss/README.md)  
        - [arxiv : Focal Loss for Dense Object Detection](https://arxiv.org/pdf/1708.02002.pdf)
     
 #
