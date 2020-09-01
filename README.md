@@ -53,7 +53,6 @@
 - **CAD 2D/3D** (Interior, Architectural, Product)
 #
 ### 📫 How to reach me
-- Resume : http://ojkk371.cafe24.com/
 - Instagram : https://www.instagram.com/juseok_93/
 - Email : ojkk371@gmail.com
 
