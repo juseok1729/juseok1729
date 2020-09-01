@@ -47,8 +47,7 @@
 - **Paper**
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
-    - [YOLOv5](https://github.com/ojkk371/Paper-review/YOLOv5)
-    - [Faster R-CNN](https://github.com/ojkk371/Paper-review/Faster R-CNN)
+    - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
     
 #
 ### 👯 Hobby
