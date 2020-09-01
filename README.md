@@ -35,15 +35,15 @@
     - Segmentation
     - Classification
 - **Vision**
-    - Camera calibration (OpenCV)
-    - Image augmentation (imgaug)
-    - Filters (Computer vision)
+    - [Camera calibration (OpenCV)](https://darkpgmr.tistory.com/32)
+    - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
+    - [Filters (Computer vision)](https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html)
 - **Financial Engineering**
     - [Data Crawler](https://github.com/ojkk371/Stock-datareader)
     - Time series data
     - BlockChain
-    - Stock
     - Futures
+    - Stock
 - **Paper**
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
