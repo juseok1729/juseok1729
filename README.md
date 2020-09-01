@@ -56,7 +56,7 @@
 - **Bicycle** (Exercise)
 - **Art** (Sketch, Sculpture)
 - **CAD 2D/3D** (Interior, Architectural, Product)
-- **Biology** (Freshwater, Saltwater, Ecology)
+- **Biology** (Fresh water, Sea, Ecology)
 #
 ### 📫 How to reach me
 - Instagram : https://www.instagram.com/juseok_93/
