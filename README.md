@@ -6,7 +6,7 @@
   
   - (2019.11-2020.03) **Big Data and Artificial Intelligence Course (ITWill)**
     - Tool: Python, SQL, R, [Linux(Ubuntu)](https://github.com/ojkk371/Ubuntu)
-    - [Python] Web-crawling (Beautifulsoup)
+    - [Python] Web-crawling (Beautifulsoup, Selenium)
     - [Python] Data visualization (matplotlib & seaborn)
     - [Python] Data preprocessing (Pandas, Numpy)
     - [Python] Machine Learning and deep learning (Tensorflow, keras)
