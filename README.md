@@ -47,6 +47,7 @@
     - Stock
 - **Paper-review**
     - [EfficientNet and EfficientDet](https://eehoeskrap.tistory.com/404)
+    - [EfficientNet](https://hoya012.github.io/blog/EfficientNet-review/)
     - [YOLOv3](https://github.com/ojkk371/Paper-review/YOLOv3)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/YOLOv4)
     - [Faster_R-CNN](https://github.com/ojkk371/Paper-review/Faster_R-CNN)
