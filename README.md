@@ -34,6 +34,7 @@
     - [Object Detection](https://github.com/ojkk371/Object-Detection)
     - Segmentation
     - Classification
+    - Tracking & Counting
 - **Vision**
     - [Camera calibration (OpenCV)](https://darkpgmr.tistory.com/32)
     - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
