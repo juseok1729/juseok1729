@@ -45,6 +45,8 @@
     - BlockChain
     - Futures
     - Stock
+- **Visualize**
+    -[Word_Cloud](https://tariat.tistory.com/854)
 - **Paper-review**
     - [EfficientNet and EfficientDet](https://eehoeskrap.tistory.com/404)
     - [EfficientNet](https://hoya012.github.io/blog/EfficientNet-review/)
