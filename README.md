@@ -1,4 +1,5 @@
 ### Juseok, Oh [*@blog*](https://blog.naver.com/ojkk371)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ojkk371&color=brightgreen" alt="ojkk371" /> </p>
 
 ### ⚡ Major : Electric Engineering
 #
