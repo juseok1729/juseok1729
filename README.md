@@ -55,7 +55,7 @@
     - [YOLOv1](https://github.com/ojkk371/Paper-review/blob/master/YOLOv1/README.md)  
        - [[arxiv] Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
     - [YOLOv2](https://github.com/ojkk371/Paper-review/blob/master/YOLOv2/README.md)  
-       - [[arxiv] YOLO9000:Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
+       - [[arxiv] YOLO9000 : Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
     - [YOLOv3](https://github.com/ojkk371/Paper-review/blob/master/YOLOv3/README.md)  
        - [[arxiv] An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)
     - [YOLOv4](https://github.com/ojkk371/Paper-review/blob/master/YOLOv4/README.md)  
