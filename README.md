@@ -24,6 +24,7 @@
     4. (2020.07-2020.07) [[Analysis] Correlation Analysis of Personality and COVID_19](https://github.com/ojkk371/Correlation-Analysis-of-Personality-and-COVID_19)
     5. (2020.07-2020.08) [[YOLOv4] Object detection (Binary Classification)](https://github.com/ojkk371/Custom-YOLOv4/blob/master/README.md)
     6. (2020.08-2020.08) [[YOLOv4] Realtime-Object detection (Multi Classification)](https://github.com/ojkk371/Custom-YOLO_BOHOL/blob/master/README.md)
+    7. (2020.09-2020.09) [[YOLOv4] Plastic bags vs Jellyfish (Multi Classification)](https://github.com/ojkk371/Eco-system/blob/master/README.md)
     
   - **Group study**
     1. (For a month) Probability and Statistics
