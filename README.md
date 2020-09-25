@@ -12,7 +12,6 @@
   - BasicBlock
     - ResNet18 : [2, 2, 2, 2]
     - ResNet34 : [3, 4, 6, 3]
-
   - Bottleneck
     - ResNet50 : [3, 4, 6, 3]
     - ResNet101 : [3, 4, 23, 3]
