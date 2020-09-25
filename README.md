@@ -9,16 +9,16 @@
 
 ### 🤔 Study
 #### 1. ResNet
-  - BasicBlock
+  - **BasicBlock**
     - ResNet18 : [2, 2, 2, 2]
     - ResNet34 : [3, 4, 6, 3]
-  - Bottleneck
+  - **Bottleneck**
     - ResNet50 : [3, 4, 6, 3]
     - ResNet101 : [3, 4, 23, 3]
     - ResNet152 : [3, 8, 36, 3]
   
 #### 2. ResNeXt
-  - Bottleneck
+  - **Bottleneck**
     - ResNeXt-50 32x4d : [3, 4, 2, 3]
       - group : 32
       - width_per_group : 4
