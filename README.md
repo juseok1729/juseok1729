@@ -28,17 +28,18 @@
 - **Crawling**
     - [High Resolution Image Crawling](https://github.com/ojkk371/Image-crawler)    
 - **Image Recognition using Deep Learning**    
+    - ResNet
     - [Object Detection](https://github.com/ojkk371/Object-Detection)
-    - [Re-identification]()
-    - [Pose-estimation]()
+    - Re-identification
+    - Pose-estimation
     - Tracking & Counting
 - **Vision**
-    - [Camera calibration (OpenCV)](https://darkpgmr.tistory.com/32)
     - [OpenCV (i/o)](https://crmn.tistory.com/49?category=785177)
     - [OpenCV (pre-processing)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
+    - [OpenCV (Camera calibration)](https://darkpgmr.tistory.com/32)
     - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
 - **Financial Engineering**
-    - [Data Crawler](https://github.com/ojkk371/Stock-datareader)
+    - [Stock Data Crawler](https://github.com/ojkk371/Stock-datareader)
     - Time series data
     - BlockChain
     - Futures
