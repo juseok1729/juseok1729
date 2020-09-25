@@ -30,11 +30,12 @@
 - **Image Recognition using Deep Learning**    
     - [Object Detection](https://github.com/ojkk371/Object-Detection)
     - [Re-identification]()
+    - [Pose-estimation]()
     - Tracking & Counting
 - **Vision**
     - [Camera calibration (OpenCV)](https://darkpgmr.tistory.com/32)
-    - [OpenCV()](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
-    - [OpenCV(Filters)](https://docs.opencv.org/3.4/d4/d86/group__imgproc__filter.html)
+    - [OpenCV (i/o)](https://crmn.tistory.com/49?category=785177)
+    - [OpenCV (pre-processing)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
     - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
 - **Financial Engineering**
     - [Data Crawler](https://github.com/ojkk371/Stock-datareader)
