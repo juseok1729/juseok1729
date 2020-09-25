@@ -20,15 +20,18 @@
 #### 2. ResNeXt
   - Bottleneck
     - ResNeXt-50 32x4d : [3, 4, 2, 3]
+      - group : 32
+      - width_per_group : 4
     - ResNeXt-101 32x8d : [3, 4, 23, 3]
-  
+      - group : 32
+      - width_per_group : 8
 #
 ### 🌱 Interest
 - **Crawling**
     - [High Resolution Image Crawling](https://github.com/ojkk371/Image-crawler)    
 - **Image Recognition using Deep Learning**    
-    - ResNet
     - [Object Detection](https://github.com/ojkk371/Object-Detection)
+    - ResNet
     - Re-identification
     - Pose-estimation
     - Tracking & Counting
