@@ -25,6 +25,24 @@
     - ResNeXt-101 32x8d : [3, 4, 23, 3]
       - group : 32
       - width_per_group : 8
+      
+      
+#### 3. Optimizer  
+  - **옵티마이저 발전과정**  
+![]()  
+- **Gradient**를 수정한 **Momentum, NAG**  
+  GD → SGD → ***Momentum***  
+  → Adam → Nadam  
+  → ***NAG*** → Nadam  
+- **Learning rate**를 수정한 **Adagrad, RMSProp, AdaDelta**   
+  GD → SGD → ***Adagrad***  
+  → ***RMSProp*** → Adam  
+  → ***AdaDelta***  
+
+ 
+
+두 종류의 *장점을 합한* **Adam, Nadam**
+  
 #
 ### 🌱 Interest
 - **Crawling**
