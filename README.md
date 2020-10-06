@@ -8,6 +8,7 @@
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020.
 
 ### 🤔 Study
+#### 0. Pytorch  
 #### 1. ResNet
   - **BasicBlock**
     - ResNet18 : [2, 2, 2, 2]
