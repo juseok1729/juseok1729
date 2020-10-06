@@ -29,7 +29,7 @@
       
 #### 3. Optimizer  
   - **옵티마이저 발전과정**  
-![]()  
+![](https://github.com/ojkk371/ojkk371/blob/master/optim.PNG?raw=true)  
 - **Gradient**를 수정한 **Momentum, NAG**  
   GD → SGD → ***Momentum***  
   → Adam → Nadam  
