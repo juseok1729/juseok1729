@@ -9,12 +9,12 @@
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020.
 
 ### 🤔 Project
-#### 0. Pytorch based
+#### 0. Pytorch
    - [Video based] Multi Object Tracking (MOT)
    - [Video based] Re-identification (Reid)
-#### 1. CrespritSet
+#### 1. alooh_vision
    - [Video based] AutolabelingTool Web application
-#### 2. Imbedded IOT
+#### 2. Imbedded_IOT
    - Nvidia jetson with Pytorch
 #
 ### 🌱 Interest
