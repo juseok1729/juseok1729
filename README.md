@@ -23,14 +23,12 @@
     - Super-Resolution
     - Auto-labeling Tool
 - **Vision**
-    - [OpenCV (i/o)](https://crmn.tistory.com/49?category=785177)
-    - [OpenCV (pre-processing)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
-    - [OpenCV (Camera calibration)](https://darkpgmr.tistory.com/32)
-    - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
+    - OpenCV
+    - OpenCV (Camera calibration)
+    - Image augmentation (imgaug)
 - **Visualize**
-    - [Word Cloud](https://tariat.tistory.com/854)
-    - Word tree diagram
-    - matplotlib, seaborn
+    - matplotlib
+    - seaborn
 - **Web_app**
     - HTML
     - CSS
@@ -46,9 +44,10 @@
 ### 👯 Hobby
 - **Research**
 - **Bicycle**
+- **Biology**
 - **Art**
 - **CAD 2D/3D**
-- **Biology**
+
 #
 ### 📫 How to reach me
 - Instagram : https://www.instagram.com/juseok_93/
