@@ -14,7 +14,8 @@
    - [Video based] Re-identification (Reid)
 #### 1. CrespritSet
    - [Video based] AutolabelingTool Web application
-#### 2. Imbedded IOT (Nvidia jetson)
+#### 2. Imbedded IOT
+   - Nvidia jetson with Pytorch
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**    
