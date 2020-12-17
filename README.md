@@ -13,7 +13,9 @@
    - [Video based] Multi Object Tracking (MOT)
    - [Video based] Re-identification (Reid)
 #### 1. alooh_vision
-   - [Video based] AutolabelingTool Web application
+   - [Video based] AutolabelingTool Web application with Pytorch
+      1. with Detectron2
+      2. with MMdetection
 #### 2. Imbedded_IOT
    - Nvidia jetson with Pytorch
 #
