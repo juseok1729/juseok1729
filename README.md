@@ -8,7 +8,7 @@
 ### 🔭 Career
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020.
 
-### 🤔 Study
+### 🤔 Project
 #### 0. Pytorch
    - (Video)MOT Project
    - (Video)Re-identification Project
