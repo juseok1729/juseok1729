@@ -28,8 +28,7 @@
     - Auto-labeling Tool
 - **Vision**
     - OpenCV
-    - OpenCV (Camera calibration)
-    - Image augmentation (imgaug)
+    - FFmpeg
 - **Visualize**
     - matplotlib
     - seaborn
