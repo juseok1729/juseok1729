@@ -9,11 +9,11 @@
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020.
 
 ### 🤔 Project
-#### 0. Pytorch
-   - (Video)MOT Project
-   - (Video)Re-identification Project
+#### 0. Pytorch based
+   - (Video based) MOT Project
+   - (Video based) Re-identification Project
 #### 1. CrespritSet
-   - (Video)AutolabelingTool Project
+   - (Video based) AutolabelingTool Project
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**    
@@ -27,6 +27,14 @@
     - [OpenCV (pre-processing)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
     - [OpenCV (Camera calibration)](https://darkpgmr.tistory.com/32)
     - [Image augmentation (imgaug)](https://github.com/aleju/imgaug)
+- **Visualize**
+    - [Word Cloud](https://tariat.tistory.com/854)
+    - Word tree diagram
+    - matplotlib, seaborn
+- **Web_app**
+    - HTML
+    - CSS
+    - javascript
 - **Crawling**
     - [High Resolution Image Crawling](https://github.com/ojkk371/Image-crawler)    
 - **Financial Engineering**
@@ -34,10 +42,6 @@
     - Time series data
     - BlockChain
     - Futures
-- **Visualize**
-    - [Word Cloud](https://tariat.tistory.com/854)
-    - Word tree diagram
-    - matplotlib, seaborn
 #
 ### 👯 Hobby
 - **Research**
