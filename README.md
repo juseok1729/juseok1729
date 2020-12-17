@@ -10,10 +10,10 @@
 
 ### 🤔 Project
 #### 0. Pytorch based
-   - (Video based) MOT Project
-   - (Video based) Re-identification Project
+   - (Video based) Multi Object Tracking (MOT)
+   - (Video based) Re-identification (Reid)
 #### 1. CrespritSet
-   - (Video based) AutolabelingTool Project
+   - (Video based) AutolabelingTool Web application
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**    
