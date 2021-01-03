@@ -25,7 +25,7 @@
     - Multi Object Tracking
     - Re-identification
     - Super-Resolution
-    - Auto-labeling Tool
+    - Auto-labeling
 - **Vision**
     - OpenCV
     - FFmpeg
