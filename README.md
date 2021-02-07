@@ -17,7 +17,7 @@
       1. with Detectron2
       2. with MMdetection
 #### 2. Imbedded_IOT
-   - Nvidia jetson with Pytorch on deepstreamer
+   - Nvidia jetson with Pytorch on DeepStreame
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**    
