@@ -29,6 +29,7 @@
 - **Vision**
     - OpenCV
     - FFmpeg
+    - Gstreamer(with Deepstreamer)
 - **Visualize**
     - matplotlib
     - seaborn
@@ -50,6 +51,8 @@
 - **Biology**
 - **Art**
 - **CAD 2D/3D**
+- **Hiking**
+- **Photography**
 
 #
 ### 📫 How to reach me
