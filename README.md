@@ -18,6 +18,7 @@
       2. with MMdetection
 #### 2. Imbedded_IOT
    - Nvidia jetson with Pytorch on DeepStreame
+   - Model Quantization
 #
 ### 🌱 Interest
 - **Image Recognition using Deep Learning**    
@@ -25,7 +26,7 @@
     - Multi Object Tracking
     - Re-identification
     - Super-Resolution
-    - Auto-labeling
+    - Auto-labeling (with DL Model)
 - **Vision**
     - OpenCV
     - FFmpeg
@@ -40,10 +41,8 @@
 - **Crawling**
     - [High Resolution Image Crawling](https://github.com/ojkk371/Image-crawler)    
 - **Financial Engineering**
-    - Stock Data Crawler
-    - Time series data
+    - Time series data analysis
     - BlockChain
-    - Futures
 #
 ### 👯 Hobby
 - **Research**
