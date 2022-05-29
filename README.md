@@ -37,7 +37,7 @@
    - Docker
    - Docker Compose
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
-   - AWS
+   - AWS (Lambda, Serverless, DynamoDB)
 
 - **IDE**
    - vscode
