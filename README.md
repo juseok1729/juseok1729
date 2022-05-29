@@ -32,6 +32,7 @@
    - Synology NAS
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
    - AWS (Lambda, Serverless, DynamoDB)
+   - Notion, gitbook, git
 - **IDE**
    - vscode (server)
    - vim
