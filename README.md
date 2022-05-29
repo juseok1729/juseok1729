@@ -35,7 +35,6 @@
 
 - **Colab-tools**
    - Docker
-   - Docker Compose
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
    - AWS (Lambda, Serverless, DynamoDB)
 
