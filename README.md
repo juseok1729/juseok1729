@@ -13,15 +13,15 @@
 #
 ### 🌱 Skills
 - **Front-end**
-   - Languages: HTML/CSS
-   - Frameworks: React.js, Vue.js
+   - HTML/CSS
+   - React.js, Vue.js
 - **Back-end**
-   - Languages: javascript, Python3
-   - Frameworks: Node.js
-   - Database: MongoDB, DynamoDB
+   - javascript, Python3
+   - Node.js, FastAPI, Flask
+   - MongoDB, DynamoDB
 - **Blockchain**
-   - Languages: Solidity
-   - Dapp: NFT, Marketplace
+   - Solidity
+   - Dapp (NFT, Marketplace)
    - IPFS
 - **Clean-code**
    - Design-Pattern
