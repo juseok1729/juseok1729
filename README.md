@@ -13,28 +13,27 @@
 #
 ### 🌱 Skills
 - **Front-end**
-   - HTML/CSS
-   - React.js
-   - Vue.js
+   - Languages: HTML/CSS
+   - Frameworks: React.js, Vue.js
 - **Back-end**
-   - javascript
-   - Python3
-   - Node.js
+   - Languages: javascript, Python3
+   - Frameworks: Node.js
+   - Database: MongoDB, DynamoDB
 - **Blockchain**
-   - Solidity
-   - Dapp (NFT, DEX)
+   - Languages: Solidity
+   - Dapp: NFT, Marketplace
    - IPFS
 - **Clean-code**
    - Design-Pattern
    - pre-commit
    - black
 - **Colab-tools**
-   - Docker
+   - Docker (Docker Hub, docker-compose, Dockerfile)
    - Synology NAS
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
    - AWS (Lambda, Serverless, DynamoDB)
 - **IDE**
-   - vscode
+   - vscode (server)
    - vim
    - remix
 
