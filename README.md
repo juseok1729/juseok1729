@@ -13,8 +13,7 @@
 #
 ### 🌱 Skills
 - **Front-end**
-   - HTML
-   - CSS
+   - HTML/CSS
    - React.js
    - Vue.js
   
@@ -26,6 +25,7 @@
 - **Blockchain**
    - Solidity
    - Dapp (NFT, DEX)
+   - IPFS
 
 - **Clean-code**
    - Design-Pattern
@@ -34,12 +34,14 @@
 
 - **Colab-tools**
    - Docker
+   - Synology NAS
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
    - AWS (Lambda, Serverless, DynamoDB)
 
 - **IDE**
    - vscode
    - vim
+   - remix
 
 #
 ### 👯 Hobby
