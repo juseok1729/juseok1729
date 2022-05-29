@@ -26,6 +26,21 @@
    - NFT
    - DEX
 
+- **Clean-code**
+   - Design-Pattern
+   - pre-commit
+   - black
+
+- **Colab-tools**
+   - Docker
+   - Docker Compose
+   - Atlassian Tools (Confluence, JIRA, and Bitbucket)
+   - AWS
+
+- **IDE**
+   - vscode
+   - vim
+
 #
 ### 👯 Hobby
 - **Art**
