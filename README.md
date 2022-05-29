@@ -7,9 +7,11 @@
 #
 ### 🔭 Career
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020. (~ 2021.11.30)
+   - Aloohstream : Gstreamer를 기반으로 한 딥러닝 inference 서버
+   - Safety-fence : 부천시 스마트팩토리 프로젝트, 보행자를 위한 무단횡단 감지/경고 서비스
 
 #
-### 🌱 Interest
+### 🌱 Skills
 - **Front-end**
    - HTML
    - CSS
