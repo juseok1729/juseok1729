@@ -6,46 +6,28 @@
 
 #
 ### 🔭 Career
-- Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020.
+- Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020. (~ 2021.11.30)
 
-### 🤔 Project
-#### 0. Pytorch
-   - [Video based] Multi Object Tracking (MOT)
-   - [Video based] Re-identification (Reid)
-#### 1. Vision
-   - [Video based] AutolabelingTool Web application with Pytorch
-      1. with Detectron2
-      2. with MMdetection
-#### 2. Imbedded_IOT
-   - Nvidia jetson with Pytorch on DeepStreame
-   - Model Quantization
 #
 ### 🌱 Interest
-- **Image Recognition using Deep Learning**    
-    - Object Detection
-    - Multi Object Tracking
-    - Re-identification
-    - Super-Resolution
-    - Auto-labeling (with DL Model)
-- **Vision**
-    - OpenCV
-    - FFmpeg
-    - Gstreamer(with Deepstreamer)
-- **Visualize**
-    - matplotlib
-    - seaborn
-- **Web_app**
-    - HTML
-    - CSS
-    - javascript
-- **Crawling**
-    - [High Resolution Image Crawling](https://github.com/ojkk371/Image-crawler)    
-- **Financial Engineering**
-    - Time series data analysis
-    - BlockChain
+- **Web/App**
+   - Front-end
+      - HTML
+      - CSS
+      - React.js
+      - Vue.js
+   - Back-end
+      - javascript
+      - Python3
+      - Node.js
+   - Blockchain
+      - Solidity
+      - NFT
+      - DEX
+
 #
 ### 👯 Hobby
-- **Research**
+- **Research & Ideation**
 - **Bicycle**
 - **Biology**
 - **Art**
@@ -56,6 +38,7 @@
 #
 ### 📫 How to reach me
 - Instagram : https://www.instagram.com/juseok_93/
+- Blog : ...
 - Email : juseok.oh@cresprit.com
 
 
