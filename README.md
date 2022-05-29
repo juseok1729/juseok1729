@@ -25,8 +25,7 @@
   
 - **Blockchain**
    - Solidity
-   - NFT
-   - DEX
+   - Dapp (NFT, DEX)
 
 - **Clean-code**
    - Design-Pattern
