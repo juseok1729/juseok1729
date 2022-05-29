@@ -39,6 +39,11 @@
    - remix
 
 #
+### 🔭 Toy Projects
+- Generative NFT demo app
+- Community based incentive
+
+#
 ### 👯 Hobby
 - Art : CAD 2D/3D, sculpture, photography
 - Activity : bicycle, hiking
