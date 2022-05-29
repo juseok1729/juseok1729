@@ -10,30 +10,31 @@
 
 #
 ### 🌱 Interest
-- **Web/App**
-   - Front-end
-      - HTML
-      - CSS
-      - React.js
-      - Vue.js
-   - Back-end
-      - javascript
-      - Python3
-      - Node.js
-   - Blockchain
-      - Solidity
-      - NFT
-      - DEX
+- **Front-end**
+   - HTML
+   - CSS
+   - React.js
+   - Vue.js
+  
+- **Back-end**
+   - javascript
+   - Python3
+   - Node.js
+  
+- **Blockchain**
+   - Solidity
+   - NFT
+   - DEX
 
 #
 ### 👯 Hobby
-- **Research & Ideation**
+- **Art**
 - **Bicycle**
 - **Biology**
-- **Art**
 - **CAD 2D/3D**
 - **Hiking**
 - **Photography**
+- **Research & Ideation**
 
 #
 ### 📫 How to reach me
