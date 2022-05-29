@@ -6,7 +6,7 @@
 
 #
 ### 🔭 Career
-- Joined the CRESPRIT. ,Bundang-gu, Korea, as a Deep Learning Research Engineer, in 2020. (~ 2021.11.30)
+- Joined the CRESPRIT. ,Bundang-gu, Korea, as a **Deep Learning Research Engineer**, in 2020. (~ 2021.11.30)
    - Aloohstream : Gstreamer를 기반으로 한 딥러닝 inference 서버
    - Safety-fence : 부천시 스마트팩토리 프로젝트, 보행자를 위한 무단횡단 감지/경고 서비스
 
@@ -16,28 +16,23 @@
    - HTML/CSS
    - React.js
    - Vue.js
-  
 - **Back-end**
    - javascript
    - Python3
    - Node.js
-  
 - **Blockchain**
    - Solidity
    - Dapp (NFT, DEX)
    - IPFS
-
 - **Clean-code**
    - Design-Pattern
    - pre-commit
    - black
-
 - **Colab-tools**
    - Docker
    - Synology NAS
    - Atlassian Tools (Confluence, JIRA, and Bitbucket)
    - AWS (Lambda, Serverless, DynamoDB)
-
 - **IDE**
    - vscode
    - vim
@@ -45,13 +40,10 @@
 
 #
 ### 👯 Hobby
-- **Art**
-- **Bicycle**
-- **Biology**
-- **CAD 2D/3D**
-- **Hiking**
-- **Photography**
-- **Research & Ideation**
+- Art : CAD 2D/3D, sculpture, photography
+- Activity : bicycle, hiking
+- Biology : fish, insect, and other animals
+- Research & Ideation
 
 #
 ### 📫 How to reach me
