@@ -70,7 +70,7 @@
 ### 🔭 Toy Projects
 - Generative NFT demo app
 - Community based incentive (yet)
-- Algorithmic trading program
+- [Algorithmic trading program](https://github.com/ojkk371/dive3m/tree/develop)
 
 #
 ### 👯 Hobby
