@@ -68,9 +68,11 @@
 
 #
 ### 🔭 Toy Projects
-- Generative NFT demo app
-- Community based incentive (yet)
+- [Deep-learning inference server](https://github.com/ojkk371/lightstream)
 - [Algorithmic trading program](https://github.com/ojkk371/dive3m/tree/develop)
+- [Generative NFT demo app](https://github.com/ojkk371/generative-nft)
+- Community based incentive (yet)
+
 
 #
 ### 👯 Hobby
