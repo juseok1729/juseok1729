@@ -85,7 +85,7 @@
 #
 ### 📫 How to reach me
 - Instagram : https://www.instagram.com/juseok_93/
-- Blog : ...
+- Notion : [https://www.diversocean.com](https://www.diversocean.com)
 - Email : jjuseoki@gmail.com
 
 
