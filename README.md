@@ -86,7 +86,7 @@
 ### 📫 How to reach me
 - Instagram : https://www.instagram.com/juseok_93/
 - Blog : ...
-- Email : juseok.oh@cresprit.com
+- Email : jjuseoki@gmail.com
 
 
 <!--
