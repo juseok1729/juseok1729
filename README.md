@@ -11,26 +11,6 @@
    - Safety-fence : 부천시 스마트팩토리 프로젝트, 보행자를 위한 무단횡단 감지/경고 서비스
 
 #
-### 🌱 Interest
-- **Front-end**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
-- **DB**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
-
-- **Cloud(AWS)**  
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
-
-- **Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white)
-
-#
 ### 🛠️ Tech Stack
 - **Deep-learning**  
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
@@ -65,6 +45,26 @@
 ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
+
+#
+### 🌱 Interest
+- **Front-end**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+
+- **DB**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
+
+- **Cloud(AWS)**  
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
+
+- **Blockchain**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white)
 
 #
 ### 🔭 Toy Projects
