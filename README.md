@@ -5,6 +5,13 @@
 ### ⚡ Major : Electric Engineering
 
 #
+### 📫 How to reach me
+- Instagram : https://www.instagram.com/juseok_93/
+- Notion : [https://www.judaengs.dev](https://www.judaengs.dev)
+- Blog : [https://www.judaengs.dev/blog](https://www.judaengs.dev/blog)
+- Email : jjuseoki@gmail.com
+
+#
 ### 🔭 Career
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a **Deep Learning Research Engineer**, in 2020. (~ 2021.11.30)
    - Aloohstream : Gstreamer를 기반으로 한 딥러닝 inference 서버
@@ -81,14 +88,6 @@
 - Biology : fish, insect, and other animals
 - Research & Ideation
 - Programming
-
-#
-### 📫 How to reach me
-- Instagram : https://www.instagram.com/juseok_93/
-- Notion : [https://www.judaengs.dev](https://www.judaengs.dev)
-- Blog : [https://www.judaengs.dev/blog](https://www.judaengs.dev/blog)
-- Email : jjuseoki@gmail.com
-
 
 <!--
 **ojkk371/ojkk371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
