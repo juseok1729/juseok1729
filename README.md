@@ -6,10 +6,9 @@
 
 #
 ### 📫 How to reach me
-- Instagram : https://www.instagram.com/juseok_93/
-- Notion : [https://www.judaengs.dev](https://www.judaengs.dev)
-- Blog : [https://www.judaengs.dev/blog](https://www.judaengs.dev/blog)
+- Instagram : [@juseok_93](https://instagram.com/juseok_93)
 - Email : jjuseoki@gmail.com
+- Blog : [https://judaengs.dev/blog](https://www.judaengs.dev/blog)
 
 #
 ### 🔭 Career
