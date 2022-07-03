@@ -74,10 +74,8 @@
 
 #
 ### 🔭 Toy Projects
-- [Deep-learning inference server](https://github.com/ojkk371/lightstream)
-- [Algorithmic trading program](https://github.com/ojkk371/dive3m/tree/develop)
-- [Generative NFT demo app](https://github.com/ojkk371/generative-nft)
-- Community based incentive (yet)
+- [Algorithmic trading](https://github.com/ojkk371/dive3m/tree/develop) : 트레이딩 뷰 웹훅 서버
+- [bookbook](https://github.com/ojkk371/bookbook) : 책 찾아주는 비동기 데이터 수집 프로그램
 
 
 #
