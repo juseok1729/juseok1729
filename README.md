@@ -8,6 +8,7 @@
 ### 📫 How to reach me
 - Instagram : [@juseok_93](https://instagram.com/juseok_93)
 - Email : jjuseoki@gmail.com
+- Resume : [https://judaengs.dev/resume](https://www.judaengs.dev/resume)
 - Blog : [https://judaengs.dev/blog](https://www.judaengs.dev/blog)
 
 #
