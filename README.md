@@ -23,7 +23,7 @@
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![PyTorch Lighting](https://img.shields.io/badge/PyTorch_Lighting-792EE5?style=flat-square&logo=PyTorch-Lighting&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-SDK-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 
@@ -34,19 +34,28 @@
  / ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
+- **Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 
-- **Clean-code**  
-![pre-commit](https://img.shields.io/badge/pre_commit-FAB040?style=flat-square&logo=pre-commit&logoColor=white)
+- **CI/CD**  
+![AWS-Beanstalk](https://img.shields.io/badge/AWS-Beanstalk-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Amazon-EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
+![Amazon-RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
+![Travis-CI](https://img.shields.io/badge/Travis-CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)
 
-- **Colab-tools**  
+- **Co-op**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) / 
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white) / 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat-square&logo=Synology&logoColor=white)
+
+- **Clean-code**  
+![pre-commit](https://img.shields.io/badge/pre_commit-FAB040?style=flat-square&logo=pre-commit&logoColor=white)
 
 - **IDE**  
 ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -62,7 +71,6 @@
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 
 - **DB**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
 
 - **Cloud(AWS)**  
