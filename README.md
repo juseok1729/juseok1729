@@ -64,22 +64,12 @@
 
 #
 ### 🌱 Interest
-- **Front-end**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-
 - **DB**  
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
 
 - **Cloud(AWS)**  
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
-
-- **Blockchain**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white)
 
 #
 ### 🔭 Toy Projects
