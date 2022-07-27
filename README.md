@@ -71,12 +71,6 @@
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
 
 #
-### 🔭 Toy Projects
-- [Algorithmic trading](https://github.com/ojkk371/dive3m/tree/develop) : 트레이딩 뷰 웹훅 서버
-- [bookbook](https://github.com/ojkk371/bookbook) : 책 찾아주는 비동기 데이터 수집 프로그램
-
-
-#
 ### 👯 Hobby
 - Art : CAD 2D/3D, sculpture, photography
 - Activity : bicycle, hiking
