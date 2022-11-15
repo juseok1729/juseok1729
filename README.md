@@ -14,7 +14,7 @@
 ### 🔭 Career
 - Joined the CRESPRIT. ,Bundang-gu, Korea, as a **Deep Learning Research Engineer**, in 2020. (~ 2021.11.30)
 
-- Joined the HAMA 🦛. ,Pangyo, Korea, ...  
+- Joined the HAMA 🦛. ,Pangyo, Korea, as a **SW Engineer & AI Developer**, in 2022 ~ ing.
   
 #
 ### 🛠️ Tech Stack
