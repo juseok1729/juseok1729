@@ -20,29 +20,37 @@
   
 #
 ### 🛠️ Tech Stack
+- **Language**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+
 - **Deep-learning**  
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![PyTorch Lighting](https://img.shields.io/badge/PyTorch_Lighting-792EE5?style=flat-square&logo=PyTorch-Lighting&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-SDK-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white)
+![PyTorch Lighting](https://img.shields.io/badge/PyTorch_Lighting-792EE5?style=flat-square&logo=PyTorch-Lightning&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=ONNX&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Deepstream-76B900?style=flat-square&logo=NVIDIA&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 
+- **Coumputer-Vision**  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white)
+  
 - **Back-end**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
- / ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+ / ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+
+- **IaaS**  
+![Amazon-EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
 
 - **Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Amazon-RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
 
 - **CI/CD**  
 ![AWS-Beanstalk](https://img.shields.io/badge/AWS-Beanstalk-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Amazon-EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
-![Amazon-RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
 ![Travis-CI](https://img.shields.io/badge/Travis-CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)
 
 - **Co-op**  
@@ -56,7 +64,7 @@
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat-square&logo=Synology&logoColor=white)
 
 - **Clean-code**  
-![pre-commit](https://img.shields.io/badge/pre_commit-FAB040?style=flat-square&logo=pre-commit&logoColor=white)
+![Pre commit](https://img.shields.io/badge/Pre_commit-FAB040?style=flat-square&logo=Pre-commit&logoColor=white)
 
 - **IDE**  
 ![VSCODE](https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
@@ -65,20 +73,33 @@
 
 #
 ### 🌱 Interest
-- **DB**  
+- **DBMS**  
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
 
-- **Cloud(AWS)**  
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white)
+- **DevOps**  
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=Amazon-EKS&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=Packer&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
+![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white)
 
 #
-### 👯 Hobby
-- Art : CAD 2D/3D, sculpture, photography
-- Activity : bicycle, hiking
-- Biology : fish, insect, and other animals
-- Research & Ideation
-- Programming
+### 🤿 Hobby
+- 🎨 : CAD 2D/3D, sculpture, photography
+- 🥾 : bicycle, hiking, scuba diving
+- 🐠 : fish, insects, and other animals
+- 🔬 : Research & Ideation
+- 💻 : Programming
 
 <!--
 **ojkk371/ojkk371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
