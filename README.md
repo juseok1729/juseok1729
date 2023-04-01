@@ -105,7 +105,7 @@
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white)
 ![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=Rocket.Chat&logoColor=white)
 
-- **FE**
+- **FE**  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 #
 ### 🤿 Hobby
