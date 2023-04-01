@@ -26,7 +26,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
- / ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 - **DevOps**  
 ![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
@@ -105,13 +104,16 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white)
 ![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=Rocket.Chat&logoColor=white)
+
+- **FE**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 #
 ### 🤿 Hobby
-- 🎨 : CAD 2D/3D, sculpture, photography
-- 🥾 : bicycle, hiking, scuba diving
-- 🐠 : fish, insects, and other animals
-- 🔬 : Research & Ideation
 - 💻 : Programming
+- 🎨 : 2D-CAD, 3D-Modeling, sculpture, photography
+- 🥾 : bicycle, hiking, scuba diving
+- 🐱 : I love cats and dogs, as well as other cute animals.
+- 🔬 : Research & Ideation
 
 <!--
 **ojkk371/ojkk371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
