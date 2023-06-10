@@ -1,4 +1,4 @@
-### Juseok, Oh [*@ojkk371*](https://github.com/ojkk371/ojkk371/blob/master/profile.md)
+### Juseok, Oh [*@juseok1729*](https://github.com/juseok1729/juseok1729/blob/master/profile.md)
 [](https://blog.naver.com/ojkk371)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojkk371&color=brightgreen" alt="ojkk371" /> </p>
 
