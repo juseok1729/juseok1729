@@ -33,7 +33,11 @@
 
 - **Infrastructure(AWS)**  
   - Compute : ![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white)  
+![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white)
+  - Media : ![Amazon MediaLive](https://img.shields.io/badge/Amazon-MediaLive-FF9900?style=flat-square&logo=Amazon-MediaLive&logoColor=white)
+![Amazon MediaConvert](https://img.shields.io/badge/Amazon-MediaConvert-FF9900?style=flat-square&logo=Amazon-MediaConvert&logoColor=white)
+![Amazon MediaPackage](https://img.shields.io/badge/Amazon-MediaPackage-FF9900?style=flat-square&logo=Amazon-MediaPackage&logoColor=white)
+![Amazon MediaTailor](https://img.shields.io/badge/Amazon-MediaTailor-FF9900?style=flat-square&logo=Amazon-MediaTailor&logoColor=white)
   - Database : ![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)  
   - Storage : ![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
   - Security : ![Amazon ACM](https://img.shields.io/badge/Amazon-ACM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
