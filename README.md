@@ -19,33 +19,44 @@
 #
 ### 🛠️ Tech Stack
 - **Language**  
+![Shell](https://img.shields.io/badge/Shell-34C534?style=flat-square&logo=Shell&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=black)
   
 - **Back-end**  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
 
-- **DevOps**  
-![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
-![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
-![Amazon ACM](https://img.shields.io/badge/Amazon-ACM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-792EE5?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=Packer&logoColor=white)
+- **Pub/sub Message broker**  
+![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=flat-square&logo=Eclipse-Mosquitto&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white)
+
+- **Infrastructure(AWS)**  
+  - Compute : ![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white)  
+  - Database : ![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)  
+  - Storage : ![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
+  - Security : ![Amazon ACM](https://img.shields.io/badge/Amazon-ACM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
+  - Network : ![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-792EE5?style=flat-square&logo=Amazon-AWS&logoColor=white)
+
+- **Infrastructure(Monitoring)**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white)
 ![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8?style=flat-square&logo=Fluentd&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white)
+
+- **Infrastructure(Container Orchestration)**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=Portainer&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=Packer&logoColor=white)
+
+- **Infrastructure(IaC)**  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+
+- **DevOps**  
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
 
 - **ChatOps**  
@@ -58,11 +69,13 @@
 ![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![CodeDeploy](https://img.shields.io/badge/AWS-CodeDeploy-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![CodePipeline](https://img.shields.io/badge/AWS-CodePipeline-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)
 
 - **DB**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Amazon-RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
 
 - **Co-op**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
@@ -96,17 +109,13 @@
 
 #
 ### 🌱 Interest
-- **DB**  
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
-
 - **ChatOps**  
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white)
 ![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=Rocket.Chat&logoColor=white)
 
 - **FE**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=Astro&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 #
 ### 🤿 Hobby
 - 💻 : Programming
