@@ -37,7 +37,12 @@
   - Database : ![Amazon RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)  
   - Storage : ![Amazon S3](https://img.shields.io/badge/Amazon-S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white)
   - Security : ![Amazon ACM](https://img.shields.io/badge/Amazon-ACM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Amazon WAF](https://img.shields.io/badge/Amazon-WAF-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Amazon IAM](https://img.shields.io/badge/Amazon-IAM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
   - Network : ![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-792EE5?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Amazon ELB](https://img.shields.io/badge/Amazon-ELB-792EE5?style=flat-square&logo=Amazon-awselasticloadbalancing&logoColor=white)
+![Amazon Route53](https://img.shields.io/badge/Amazon-Route53-792EE5?style=flat-square&logo=Amazon-route53&logoColor=white)
+![Amazon Route53](https://img.shields.io/badge/Amazon-CloudFront-792EE5?style=flat-square&logo=Amazon-cloudfront&logoColor=white)
 
 - **Infrastructure(Monitoring)**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
