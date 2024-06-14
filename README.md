@@ -33,6 +33,7 @@
 
 - **Infrastructure(AWS)**  
   - Compute : ![Amazon EC2](https://img.shields.io/badge/Amazon-EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=white)
+![Amazon Lambda](https://img.shields.io/badge/Amazon-Lambda-FF9900?style=flat-square&logo=AWS-Lambda&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/Amazon-ECS-FF9900?style=flat-square&logo=Amazon-ECS&logoColor=white)
   - Media : ![Amazon MediaLive](https://img.shields.io/badge/Amazon-MediaLive-FF9900?style=flat-square&logo=Amazon-MediaLive&logoColor=white)
 ![Amazon MediaConvert](https://img.shields.io/badge/Amazon-MediaConvert-FF9900?style=flat-square&logo=Amazon-MediaConvert&logoColor=white)
@@ -44,9 +45,12 @@
 ![Amazon WAF](https://img.shields.io/badge/Amazon-WAF-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Amazon IAM](https://img.shields.io/badge/Amazon-IAM-ED1C24?style=flat-square&logo=Amazon-AWS&logoColor=white)
   - Network : ![Amazon VPC](https://img.shields.io/badge/Amazon-VPC-792EE5?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Amazon ELB](https://img.shields.io/badge/Amazon-ELB-792EE5?style=flat-square&logo=Amazon-awselasticloadbalancing&logoColor=white)
-![Amazon Route53](https://img.shields.io/badge/Amazon-Route53-792EE5?style=flat-square&logo=Amazon-route53&logoColor=white)
-![Amazon Route53](https://img.shields.io/badge/Amazon-CloudFront-792EE5?style=flat-square&logo=Amazon-cloudfront&logoColor=white)
+![Amazon ELB](https://img.shields.io/badge/Amazon-ELB-792EE5?style=flat-square&logo=awselasticloadbalancing&logoColor=white)
+![Amazon Route53](https://img.shields.io/badge/Amazon-Route53-792EE5?style=flat-square&logo=amazonroute53&logoColor=white)
+![Amazon CloudFront](https://img.shields.io/badge/Amazon-CloudFront-792EE5?style=flat-square&logo=Amazon-cloudfront&logoColor=white)
+  - ETC : ![Amazon API-Gateway](https://img.shields.io/badge/Amazon-API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/Amazon-CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon-SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
 - **Infrastructure(Monitoring)**  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
