@@ -62,10 +62,11 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white)
 
-- **Infrastructure(Container Orchestration)**  
+- **Infrastructure(Container)**  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=Helm&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=Harbor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 - **Infrastructure(IaC)**  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
@@ -76,10 +77,9 @@
 
 - **ChatOps**  
 ![Slack](https://img.shields.io/badge/Slack-bolt-4A154B?style=flat-square&logo=Slack&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=mattermost&logoColor=white)
 
 - **CI/CD**  
-![AWS-Beanstalk](https://img.shields.io/badge/AWS-Beanstalk-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white)
-![Travis-CI](https://img.shields.io/badge/Travis-CI-3EAAAF?style=flat-square&logo=Travis-CI&logoColor=white)
 ![CodeCommit](https://img.shields.io/badge/AWS-CodeCommit-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![CodeBuild](https://img.shields.io/badge/AWS-CodeBuild-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![CodeDeploy](https://img.shields.io/badge/AWS-CodeDeploy-527FFF?style=flat-square&logo=Amazon-AWS&logoColor=white)
@@ -90,16 +90,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Amazon-RDS](https://img.shields.io/badge/Amazon-RDS-527FFF?style=flat-square&logo=Amazon-RDS&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon-DynamoDB&logoColor=white)
 
 - **Co-op**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=Bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) / 
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
 ![Synology NAS](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat-square&logo=Synology&logoColor=white)
 
 - **Deep-learning**  
@@ -125,7 +122,6 @@
 #
 ### 🌱 Interest
 - **ChatOps**  
-![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat-square&logo=Mattermost&logoColor=white)
 ![Rocket.Chat](https://img.shields.io/badge/Rocket.Chat-F5455C?style=flat-square&logo=Rocket.Chat&logoColor=white)
 
 - **Container**  
@@ -137,9 +133,9 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white)
 #
 ### 🤿 Hobby
-- 💻 : Programming
-- 🎨 : 2D-CAD, 3D-Modeling, sculpture, photography
-- 🥾 : bicycle, hiking, scuba diving
+- 🤖 : Automation
+- 🎨 : 2D/3D-Modeling, sculpture, photography
+- 🥾 : bicycle, hiking, scuba-diving
 - 🐱 : I love cats and dogs, as well as other cute animals.
 - 🔬 : Research & Ideation
 
