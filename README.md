@@ -106,7 +106,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=FFmpeg&logoColor=white)
 
-- **Clean-code**  
+- **Code-Formatter**  
 ![Black](https://img.shields.io/badge/Black-231F20?style=flat-square&logo=&logoColor=white)
 ![Pre commit](https://img.shields.io/badge/Pre_commit-FAB040?style=flat-square&logo=Pre-commit&logoColor=white)
 
