@@ -86,4 +86,4 @@
 ---
 
 ### 🤿 Hobby
-🤖 Automation · 🎨 2D/3D Modeling & Photography · 🚴 Cycling · 🥾 Hiking · 🤿 Scuba Diving · 🐱 Animal Lover · 🔬 Research & Ideation
+🤖 Automation · 🚴 Cycling · 🥾 Hiking · 🤿 Scuba Diving · 🐱 Animal Lover · 🔬 Research & Ideation
