@@ -29,6 +29,7 @@
 ![Shell](https://img.shields.io/badge/Shell-34C534?style=flat-square&logo=Shell&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Infrastructure & Cloud**
 
