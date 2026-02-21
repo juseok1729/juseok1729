@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojkk371&color=brightgreen" alt="ojkk371" /> </p>
 
-> Sole DevOps Engineer responsible for end-to-end platform ownership  
-> DevOps Engineer (사내 인프라 3년 단독 운영)
+> Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 클라우드, 150+ 서버)
 
 ---
 
@@ -37,6 +36,7 @@
 ![OCI](https://img.shields.io/badge/OCI-C74634?style=flat-square&logo=oci&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=Vault&logoColor=black)
 
 <details>
 <summary>AWS Services</summary>
@@ -83,7 +83,7 @@
 
 ### 🌱 Currently Exploring
 
-`홈랩 & 네트워크랩 구축` `AI-assisted DevOps` `ArgoCD` `OpenTelemetry`
+`홈랩 & 네트워크랩 구축` `ArgoCD` `Pulumi` `AI-assisted DevOps`
 
 ---
 
