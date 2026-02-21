@@ -8,7 +8,7 @@
 ---
 
 ### 📫 Contact
-**Email** juseok@hamagroups.io · **Blog** [https://p373r.net](https://p373r.net) · **Instagram** [@juseok_93](https://instagram.com/juseok_93)
+**Email** ojkk371@gmail.com · **Blog** [https://p373r.net](https://p373r.net) · **Instagram** [@juseok_93](https://instagram.com/juseok_93)
 
 ---
 
