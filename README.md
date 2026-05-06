@@ -7,7 +7,7 @@ Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 �
 ---
 
 ## 📫 Contact
-**Email** ojkk371@gmail.com · **Blog** [https://p373r.net](https://p373r.net) · **Instagram** [@juseok_93](https://instagram.com/juseok_93)
+**Email** ojkk371@gmail.com · **Blog** [https://p373r.net](https://blog.p373r.net) · **Instagram** [@juseok_93](https://instagram.com/juseok_93)
 
 ---
 
@@ -25,13 +25,16 @@ Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 �
 
 | Category | Stack |
 |--------|---------|
-| Core | ![Shell] ![Python] ![Go] ![Linux] |
-| Infrastructure & Cloud | ![AWS] ![OCI] ![Terraform] ![Ansible] ![Vault] |
-| Container & Orchestration | ![Kubernetes] ![Docker] ![Helm] ![Harbor] |
-| CI/CD | ![GitLab CI/CD] ![AWS CodePipeline] |
-| Observability | ![Prometheus] ![Grafana] ![EFK Stack] ![OpenSearch] ![OpenTelemetry] |
+| Languages | ![Shell] ![Python] |
+| Infrastructure | ![Linux] ![Proxmox] ![MikroTik] |
+| Cloud | ![AWS] ![OCI] |
+| IaC | ![Terraform] ![Ansible] ![Packer] |
+| Container & Orchestration | ![Docker] ![Kubernetes] ![Helm] ![Harbor] |
+| CI/CD & Automation | ![GitLab CI/CD] ![AWS CodePipeline] ![n8n] |
+| Observability | ![Prometheus] ![Grafana Stack] ![EFK Stack] ![OpenSearch] ![OpenTelemetry] |
+| Security | ![Vault] |
+| Productivity | ![Jira] ![Confluence] ![Notion] ![Slack] |
 | AI / ML *(prev)* | ![PyTorch] ![NVIDIA DeepStream] ![OpenCV] |
-| Collaboration | ![Jira] ![Confluence] ![Notion] ![Slack] ![n8n] |
 
 <details>
 <summary>AWS Services</summary>
@@ -63,6 +66,9 @@ Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 �
 [Terraform]: https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white
 [Ansible]: https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white
 [Vault]: https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=Vault&logoColor=black
+[Packer]: https://img.shields.io/badge/Packer-02A8EF?style=flat-square&logo=Packer&logoColor=white
+[Mikrotik]: https://img.shields.io/badge/Mikrotik-293239?style=flat-square&logo=Mikrotik&logoColor=white
+[Proxmox]: https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white
 
 <!-- Container & Orchestration -->
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white
@@ -76,7 +82,7 @@ Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 �
 
 <!-- Observability -->
 [Prometheus]: https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white
-[Grafana]: https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white
+[Grafana Stack]: https://img.shields.io/badge/Grafana_Stack-F46800?style=flat-square&logo=Grafana&logoColor=white
 [EFK Stack]: https://img.shields.io/badge/EFK_Stack-005571?style=flat-square&logo=Elasticsearch&logoColor=white
 [OpenSearch]: https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=OpenSearch&logoColor=white
 [OpenTelemetry]: https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=OpenTelemetry&logoColor=white
