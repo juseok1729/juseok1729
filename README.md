@@ -15,7 +15,8 @@ Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 �
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2023.01 ~ 2026.02| Hamalab | **DevOps Engineer** 🧑‍🚀 |
+| 2026.08 ~ | ETEVERS GROUP | **Cloud Technical Architect** 🧑‍🚀 |
+| 2023.01 ~ 2026.02| Hamalab | DevOps Engineer |
 | 2022.08 ~ 2023.01 | Hamalab | SW Engineer & AI Developer 🦛 |
 | 2020.09 ~ 2021.11 | CRESPRIT | Computer Vision Engineer(Nvidia Deepstream) |
 
