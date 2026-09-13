@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojkk371&color=brightgreen" alt="ojkk371" /> </p>  
 
-Sole DevOps Engineer — 3년간 사내 전체 인프라 단독 운영 (멀티 클라우드, 150+ 서버)
+DevOps Engineer -> Cloud Technical Architect
 
 ---
 
